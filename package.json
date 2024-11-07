@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "@material-tailwind/react": "^2.1.10",
+    "@pushprotocol/restapi": "^1.7.29",
+    "@reduxjs/toolkit": "^2.3.0",
+    "boring-avatars": "^1.11.2",
+    "ethers": "5.7",
+    "next": "15.0.2",
     "react": "19.0.0-rc-02c0e824-20241028",
     "react-dom": "19.0.0-rc-02c0e824-20241028",
-    "next": "15.0.2"
+    "react-redux": "^9.1.2",
+    "viem": "1.19.13",
+    "wagmi": "1.4.10"
   },
   "devDependencies": {
     "postcss": "^8",
